@@ -1,0 +1,17 @@
+# lines starting with (#) are comments and ignored
+# format: number,name,pan,expiry,amount,date,state
+1,KingMufasa OfJungle,79927398713,05/26,50000.121,,approved
+2,KingMufasa OfJungle,79927398713,05/26,50000.121,,approved
+3,KingMufasa OfJungle,79927398713,05/26,50000.121,,approved
+4,Mahmooud Abdullah Pad,4539180106167697,05/26,1000.000,12/07/2022,approved
+5,KingMufasa OfJungle,79927398713,05/26,50000.121,,approved
+6,PoorMan NoMoney,5516361478373915,05/26,75000.125,,declined:insufficient fund
+7,ThiefIm Possible,5162346746071729,05/26,75000.125,,declined:stolen card
+8,ThiefIm Possible,5162346746071729,05/26,75000.125,,declined:stolen card
+9,PoorMan NoMoney,5516361478373915,05/26,75000.125,,declined:insufficient fund
+10,KingMufasa OfJungle,79927398713,05/26,50000.121,,declined:insufficient fund
+11,TestingSavingTrans,79927398713,05/26,50000.121,05/05/1979,declined:stolen card
+12,ThiefIm Possible,5162346746071729,05/26,75000.125,,declined:stolen card
+13,PoorMan NoMoney,5516361478373915,05/26,75000.125,,declined:insufficient fund
+14,KingMufasa OfJungle,79927398713,05/26,50000.121,,approved
+15,TestingThe FinalTest,4539180106167697,05/25,123.123,12/07/2022,approved

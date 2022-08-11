@@ -1,0 +1,8 @@
+# lines starting with (#) are comments and ignored
+# format: pan,amount[13.3f],name [name is for our convenience, DB searches & operations use PAN]
+# note: it's important to maintain the amount field width for proper updates.
+79927398713,0000940552.750,KingMufasa OfJungle
+5112667210810487,0000151000.123,TimonTheMagnificent
+5516361478373915,0000015000.123,PoorMan NoMoney
+4539180106167697,0000012246.988,Mahmooud Abdullah Pad
+#5162346746071729,0000050000.123,ThiefIm Possible
